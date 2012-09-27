@@ -1,0 +1,4441 @@
+servers = (
+  {
+    address = "TGHelps.peggy.devel.ws";
+    chatnet = "TGHelps";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+
+  {
+    address = "bitlbee.peggy.devel.ws";
+    chatnet = "bitlbee";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+
+  {
+    address = "JuggaloIRCNet.peggy.devel.ws";
+    chatnet = "JuggaloIRCNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Digitalirc.peggy.devel.ws";
+    chatnet = "Digitalirc";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "PhaseNet.peggy.devel.ws";
+    chatnet = "PhaseNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "SwiftIRC.peggy.devel.ws";
+    chatnet = "SwiftIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "GRnet.peggy.devel.ws";
+    chatnet = "GRnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Caelestia.peggy.devel.ws";
+    chatnet = "Caelestia";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ImmortalAnime.peggy.devel.ws";
+    chatnet = "ImmortalAnime";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "EYErc.peggy.devel.ws";
+    chatnet = "EYErc";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Realitybytez.peggy.devel.ws";
+    chatnet = "Realitybytez";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ScaryNet.peggy.devel.ws";
+    chatnet = "ScaryNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Voila.peggy.devel.ws";
+    chatnet = "Voila";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "AwesomeChat.peggy.devel.ws";
+    chatnet = "AwesomeChat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Asylo.peggy.devel.ws";
+    chatnet = "Asylo";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "XAngelz.peggy.devel.ws";
+    chatnet = "XAngelz";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Serenia.peggy.devel.ws";
+    chatnet = "Serenia";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Veezy.peggy.devel.ws";
+    chatnet = "Veezy";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Rizon.peggy.devel.ws";
+    chatnet = "Rizon";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "OtherWorlders.peggy.devel.ws";
+    chatnet = "OtherWorlders";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "RomaniaIRC.peggy.devel.ws";
+    chatnet = "RomaniaIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Netgamers.peggy.devel.ws";
+    chatnet = "Netgamers";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Illumichat.peggy.devel.ws";
+    chatnet = "Illumichat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Krono.peggy.devel.ws";
+    chatnet = "Krono";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "TalkingIRC.peggy.devel.ws";
+    chatnet = "TalkingIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "EsperNet.peggy.devel.ws";
+    chatnet = "EsperNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "TVEps.peggy.devel.ws";
+    chatnet = "TVEps";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "MemphisNet.peggy.devel.ws";
+    chatnet = "MemphisNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Novernet.peggy.devel.ws";
+    chatnet = "Novernet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "UnderMind.peggy.devel.ws";
+    chatnet = "UnderMind";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Goldchat.peggy.devel.ws";
+    chatnet = "Goldchat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "FEFnet.peggy.devel.ws";
+    chatnet = "FEFnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "BruneiChat.peggy.devel.ws";
+    chatnet = "BruneiChat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Synchronet.peggy.devel.ws";
+    chatnet = "Synchronet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "AbleNET.peggy.devel.ws";
+    chatnet = "AbleNET";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "DeepIRC.peggy.devel.ws";
+    chatnet = "DeepIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Ascends.peggy.devel.ws";
+    chatnet = "Ascends";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Axenet.peggy.devel.ws";
+    chatnet = "Axenet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "AbsurdIRC.peggy.devel.ws";
+    chatnet = "AbsurdIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "GlobalIRC.peggy.devel.ws";
+    chatnet = "GlobalIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "WebChat.peggy.devel.ws";
+    chatnet = "WebChat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "DarkTouNet.peggy.devel.ws";
+    chatnet = "DarkTouNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Knightnet.peggy.devel.ws";
+    chatnet = "Knightnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Darkfire.peggy.devel.ws";
+    chatnet = "Darkfire";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "GameSurge.peggy.devel.ws";
+    chatnet = "GameSurge";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "PhooNet.peggy.devel.ws";
+    chatnet = "PhooNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "HellasIRC.peggy.devel.ws";
+    chatnet = "HellasIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "VirtuaLife.peggy.devel.ws";
+    chatnet = "VirtuaLife";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Cyberarmy.peggy.devel.ws";
+    chatnet = "Cyberarmy";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "GlobalGamers.peggy.devel.ws";
+    chatnet = "GlobalGamers";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ChatFactory.peggy.devel.ws";
+    chatnet = "ChatFactory";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ACKnet.peggy.devel.ws";
+    chatnet = "ACKnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "SNM.peggy.devel.ws";
+    chatnet = "SNM";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ZUHnet.peggy.devel.ws";
+    chatnet = "ZUHnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "SpiderNet.peggy.devel.ws";
+    chatnet = "SpiderNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "NullIRC.peggy.devel.ws";
+    chatnet = "NullIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "GermanElite.peggy.devel.ws";
+    chatnet = "GermanElite";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "DrLnet.peggy.devel.ws";
+    chatnet = "DrLnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Chatpolis.peggy.devel.ws";
+    chatnet = "Chatpolis";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "KukaiOnline.peggy.devel.ws";
+    chatnet = "KukaiOnline";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Langochat.peggy.devel.ws";
+    chatnet = "Langochat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Kickchat.peggy.devel.ws";
+    chatnet = "Kickchat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Undernet.peggy.devel.ws";
+    chatnet = "Undernet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Worldnet.peggy.devel.ws";
+    chatnet = "Worldnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Starfusion.peggy.devel.ws";
+    chatnet = "Starfusion";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "FlameIRC.peggy.devel.ws";
+    chatnet = "FlameIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "STCity.peggy.devel.ws";
+    chatnet = "STCity";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "AngelEyez.peggy.devel.ws";
+    chatnet = "AngelEyez";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Jaundies.peggy.devel.ws";
+    chatnet = "Jaundies";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Abjects.peggy.devel.ws";
+    chatnet = "Abjects";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "GamesNET.peggy.devel.ws";
+    chatnet = "GamesNET";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Risanet.peggy.devel.ws";
+    chatnet = "Risanet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "MMOIRC.peggy.devel.ws";
+    chatnet = "MMOIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Webcomm.peggy.devel.ws";
+    chatnet = "Webcomm";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Slashnet.peggy.devel.ws";
+    chatnet = "Slashnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "HabberNet.peggy.devel.ws";
+    chatnet = "HabberNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "WeArab.peggy.devel.ws";
+    chatnet = "WeArab";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "SexNet.peggy.devel.ws";
+    chatnet = "SexNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "RelayChat.peggy.devel.ws";
+    chatnet = "RelayChat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "IRCHispano.peggy.devel.ws";
+    chatnet = "IRCHispano";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "IRSee.peggy.devel.ws";
+    chatnet = "IRSee";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "BrokenPipe.peggy.devel.ws";
+    chatnet = "BrokenPipe";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "PhaZeNet.peggy.devel.ws";
+    chatnet = "PhaZeNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "IRCChat.peggy.devel.ws";
+    chatnet = "IRCChat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "is1337.peggy.devel.ws";
+    chatnet = "is1337";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Imperium.peggy.devel.ws";
+    chatnet = "Imperium";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Chikahan.peggy.devel.ws";
+    chatnet = "Chikahan";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "GigaIRC.peggy.devel.ws";
+    chatnet = "GigaIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Karacay.peggy.devel.ws";
+    chatnet = "Karacay";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ChattingAway.peggy.devel.ws";
+    chatnet = "ChattingAway";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "TotalIRC.peggy.devel.ws";
+    chatnet = "TotalIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Xevion.peggy.devel.ws";
+    chatnet = "Xevion";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "GreekIRC.peggy.devel.ws";
+    chatnet = "GreekIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Teranovanet.peggy.devel.ws";
+    chatnet = "Teranovanet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "IrcWorld.peggy.devel.ws";
+    chatnet = "IrcWorld";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Stormdancing.peggy.devel.ws";
+    chatnet = "Stormdancing";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ThunderCity.peggy.devel.ws";
+    chatnet = "ThunderCity";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "D00mnet.peggy.devel.ws";
+    chatnet = "D00mnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Malaynet.peggy.devel.ws";
+    chatnet = "Malaynet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ChatCircuit.peggy.devel.ws";
+    chatnet = "ChatCircuit";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Blitzed.peggy.devel.ws";
+    chatnet = "Blitzed";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "IRCNightfire.peggy.devel.ws";
+    chatnet = "IRCNightfire";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Rootspirit.peggy.devel.ws";
+    chatnet = "Rootspirit";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Financialchat.peggy.devel.ws";
+    chatnet = "Financialchat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Necron.peggy.devel.ws";
+    chatnet = "Necron";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "IRCChile.peggy.devel.ws";
+    chatnet = "IRCChile";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "bonGster.peggy.devel.ws";
+    chatnet = "bonGster";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "SpaceTronix.peggy.devel.ws";
+    chatnet = "SpaceTronix";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "AnimeIRCnet.peggy.devel.ws";
+    chatnet = "AnimeIRCnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "SuskunNet.peggy.devel.ws";
+    chatnet = "SuskunNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "LinkNet.peggy.devel.ws";
+    chatnet = "LinkNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Burmese.peggy.devel.ws";
+    chatnet = "Burmese";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "BikersIRC.peggy.devel.ws";
+    chatnet = "BikersIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Chatnet.peggy.devel.ws";
+    chatnet = "Chatnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "MASChat.peggy.devel.ws";
+    chatnet = "MASChat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "WorldIRC.peggy.devel.ws";
+    chatnet = "WorldIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "StarChat.peggy.devel.ws";
+    chatnet = "StarChat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "JasonIRC.peggy.devel.ws";
+    chatnet = "JasonIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Forestnet.peggy.devel.ws";
+    chatnet = "Forestnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Sinoptic.peggy.devel.ws";
+    chatnet = "Sinoptic";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "SyrolNet.peggy.devel.ws";
+    chatnet = "SyrolNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "AustChat.peggy.devel.ws";
+    chatnet = "AustChat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "EuropeIRC.peggy.devel.ws";
+    chatnet = "EuropeIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "SeersIRC.peggy.devel.ws";
+    chatnet = "SeersIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Chatster.peggy.devel.ws";
+    chatnet = "Chatster";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "UICN.peggy.devel.ws";
+    chatnet = "UICN";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "UnderZ.peggy.devel.ws";
+    chatnet = "UnderZ";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "NightStar.peggy.devel.ws";
+    chatnet = "NightStar";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Mistrider.peggy.devel.ws";
+    chatnet = "Mistrider";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "HellenicNet.peggy.devel.ws";
+    chatnet = "HellenicNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "IRCBY.peggy.devel.ws";
+    chatnet = "IRCBY";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Kenthaber.peggy.devel.ws";
+    chatnet = "Kenthaber";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "NPIRCS.peggy.devel.ws";
+    chatnet = "NPIRCS";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Realirc.peggy.devel.ws";
+    chatnet = "Realirc";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Germanfreakz.peggy.devel.ws";
+    chatnet = "Germanfreakz";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Othernet.peggy.devel.ws";
+    chatnet = "Othernet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "CAJnet.peggy.devel.ws";
+    chatnet = "CAJnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Klavye.peggy.devel.ws";
+    chatnet = "Klavye";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "GalaxyNet.peggy.devel.ws";
+    chatnet = "GalaxyNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "AfterX.peggy.devel.ws";
+    chatnet = "AfterX";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "DeviantART.peggy.devel.ws";
+    chatnet = "DeviantART";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "FDFnet.peggy.devel.ws";
+    chatnet = "FDFnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Deepspace.peggy.devel.ws";
+    chatnet = "Deepspace";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "RedLatina.peggy.devel.ws";
+    chatnet = "RedLatina";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "NinthGate.peggy.devel.ws";
+    chatnet = "NinthGate";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "JetIRC.peggy.devel.ws";
+    chatnet = "JetIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "AfterNET.peggy.devel.ws";
+    chatnet = "AfterNET";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ChatX.peggy.devel.ws";
+    chatnet = "ChatX";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Goodchatting.peggy.devel.ws";
+    chatnet = "Goodchatting";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "LichtSnel.peggy.devel.ws";
+    chatnet = "LichtSnel";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Chatchannel.peggy.devel.ws";
+    chatnet = "Chatchannel";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "WyldRyde.peggy.devel.ws";
+    chatnet = "WyldRyde";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "DhCNetwork.peggy.devel.ws";
+    chatnet = "DhCNetwork";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ChatNPlay.peggy.devel.ws";
+    chatnet = "ChatNPlay";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "QuakeNet.peggy.devel.ws";
+    chatnet = "QuakeNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Succuba.peggy.devel.ws";
+    chatnet = "Succuba";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "euIRCnet.peggy.devel.ws";
+    chatnet = "euIRCnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Echo34.peggy.devel.ws";
+    chatnet = "Echo34";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "KDFSnet.peggy.devel.ws";
+    chatnet = "KDFSnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "PhrenzyIRC.peggy.devel.ws";
+    chatnet = "PhrenzyIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "AseanChat.peggy.devel.ws";
+    chatnet = "AseanChat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "WikkedWire.peggy.devel.ws";
+    chatnet = "WikkedWire";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Mozilla.peggy.devel.ws";
+    chatnet = "Mozilla";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Cyanidex.peggy.devel.ws";
+    chatnet = "Cyanidex";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "AmberNet.peggy.devel.ws";
+    chatnet = "AmberNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "PowerPrecision.peggy.devel.ws";
+    chatnet = "PowerPrecision";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "AshNet.peggy.devel.ws";
+    chatnet = "AshNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Quakenet.peggy.devel.ws";
+    chatnet = "Quakenet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Aniverse.peggy.devel.ws";
+    chatnet = "Aniverse";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "DarkStorm.peggy.devel.ws";
+    chatnet = "DarkStorm";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Chatworks.peggy.devel.ws";
+    chatnet = "Chatworks";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "AllNetwork.peggy.devel.ws";
+    chatnet = "AllNetwork";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ShadowWorld.peggy.devel.ws";
+    chatnet = "ShadowWorld";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "BittahIRC.peggy.devel.ws";
+    chatnet = "BittahIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ArabChat.peggy.devel.ws";
+    chatnet = "ArabChat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "KampungChat.peggy.devel.ws";
+    chatnet = "KampungChat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "OflooIRC.peggy.devel.ws";
+    chatnet = "OflooIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ZAnetNet.peggy.devel.ws";
+    chatnet = "ZAnetNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "DreamIrc.peggy.devel.ws";
+    chatnet = "DreamIrc";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Lepaknet.peggy.devel.ws";
+    chatnet = "Lepaknet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "CodersNet.peggy.devel.ws";
+    chatnet = "CodersNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Elevanet.peggy.devel.ws";
+    chatnet = "Elevanet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Darktree.peggy.devel.ws";
+    chatnet = "Darktree";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "UKchatterbox.peggy.devel.ws";
+    chatnet = "UKchatterbox";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "WonderNet.peggy.devel.ws";
+    chatnet = "WonderNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "BackwerdsIRC.peggy.devel.ws";
+    chatnet = "BackwerdsIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Striked.peggy.devel.ws";
+    chatnet = "Striked";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Roofstar.peggy.devel.ws";
+    chatnet = "Roofstar";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "StarLinkOrg.peggy.devel.ws";
+    chatnet = "StarLinkOrg";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "IRCube.peggy.devel.ws";
+    chatnet = "IRCube";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ScifiNet.peggy.devel.ws";
+    chatnet = "ScifiNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "WhatNet.peggy.devel.ws";
+    chatnet = "WhatNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Freequest.peggy.devel.ws";
+    chatnet = "Freequest";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Discussioni.peggy.devel.ws";
+    chatnet = "Discussioni";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "SerenityIRC.peggy.devel.ws";
+    chatnet = "SerenityIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "IRDSI.peggy.devel.ws";
+    chatnet = "IRDSI";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Slacked.peggy.devel.ws";
+    chatnet = "Slacked";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "IrcSuper.peggy.devel.ws";
+    chatnet = "IrcSuper";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Nevernet.peggy.devel.ws";
+    chatnet = "Nevernet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "HeavenlyPlace.peggy.devel.ws";
+    chatnet = "HeavenlyPlace";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "IrCQNet.peggy.devel.ws";
+    chatnet = "IrCQNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "GermanyIRC.peggy.devel.ws";
+    chatnet = "GermanyIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ForeverChat.peggy.devel.ws";
+    chatnet = "ForeverChat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Ciudad.peggy.devel.ws";
+    chatnet = "Ciudad";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Librenet.peggy.devel.ws";
+    chatnet = "Librenet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Maddshark.peggy.devel.ws";
+    chatnet = "Maddshark";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Outsiderz.peggy.devel.ws";
+    chatnet = "Outsiderz";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "MagicStar.peggy.devel.ws";
+    chatnet = "MagicStar";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "FBN.peggy.devel.ws";
+    chatnet = "FBN";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "LobiNET.peggy.devel.ws";
+    chatnet = "LobiNET";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "P2PChat.peggy.devel.ws";
+    chatnet = "P2PChat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Different.peggy.devel.ws";
+    chatnet = "Different";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "StayNet.peggy.devel.ws";
+    chatnet = "StayNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Freenode.peggy.devel.ws";
+    chatnet = "Freenode";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "IRCHighway.peggy.devel.ws";
+    chatnet = "IRCHighway";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "DALnet.peggy.devel.ws";
+    chatnet = "DALnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Dynastynet.peggy.devel.ws";
+    chatnet = "Dynastynet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Windfyre.peggy.devel.ws";
+    chatnet = "Windfyre";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "MatrixNet.peggy.devel.ws";
+    chatnet = "MatrixNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "VirtuaNet.peggy.devel.ws";
+    chatnet = "VirtuaNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "NiX.peggy.devel.ws";
+    chatnet = "NiX";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "MalaysiaIRC.peggy.devel.ws";
+    chatnet = "MalaysiaIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "URChat.peggy.devel.ws";
+    chatnet = "URChat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ChakraNET.peggy.devel.ws";
+    chatnet = "ChakraNET";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "LandOLeet.peggy.devel.ws";
+    chatnet = "LandOLeet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "PTnet.peggy.devel.ws";
+    chatnet = "PTnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "EntertheGame.peggy.devel.ws";
+    chatnet = "EntertheGame";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "FunNet.peggy.devel.ws";
+    chatnet = "FunNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "IRCtoo.peggy.devel.ws";
+    chatnet = "IRCtoo";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "BolChat.peggy.devel.ws";
+    chatnet = "BolChat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "EFnet.peggy.devel.ws";
+    chatnet = "EFnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "BigPond.peggy.devel.ws";
+    chatnet = "BigPond";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ZAnetOrg.peggy.devel.ws";
+    chatnet = "ZAnetOrg";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Chatsociety.peggy.devel.ws";
+    chatnet = "Chatsociety";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Ozorg.peggy.devel.ws";
+    chatnet = "Ozorg";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "PhatNET.peggy.devel.ws";
+    chatnet = "PhatNET";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ChatSpike.peggy.devel.ws";
+    chatnet = "ChatSpike";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ShadowFire.peggy.devel.ws";
+    chatnet = "ShadowFire";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "GigaCrew.peggy.devel.ws";
+    chatnet = "GigaCrew";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Communicate.peggy.devel.ws";
+    chatnet = "Communicate";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "NeoturbineNET.peggy.devel.ws";
+    chatnet = "NeoturbineNET";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "AustNet.peggy.devel.ws";
+    chatnet = "AustNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "KnightIRC.peggy.devel.ws";
+    chatnet = "KnightIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "UnitedChat.peggy.devel.ws";
+    chatnet = "UnitedChat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Accessirc.peggy.devel.ws";
+    chatnet = "Accessirc";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "NeoXys.peggy.devel.ws";
+    chatnet = "NeoXys";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "IRCnet.peggy.devel.ws";
+    chatnet = "IRCnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Globalchat.peggy.devel.ws";
+    chatnet = "Globalchat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "GammaForce.peggy.devel.ws";
+    chatnet = "GammaForce";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "DarkMyst.peggy.devel.ws";
+    chatnet = "DarkMyst";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "FroZyn.peggy.devel.ws";
+    chatnet = "FroZyn";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "IRC2.peggy.devel.ws";
+    chatnet = "IRC2";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "IRC4Fun.peggy.devel.ws";
+    chatnet = "IRC4Fun";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Muhabbet.peggy.devel.ws";
+    chatnet = "Muhabbet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "EverywhereChat.peggy.devel.ws";
+    chatnet = "EverywhereChat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Xtris.peggy.devel.ws";
+    chatnet = "Xtris";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Beatmix.peggy.devel.ws";
+    chatnet = "Beatmix";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Datawhore.peggy.devel.ws";
+    chatnet = "Datawhore";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Oceanius.peggy.devel.ws";
+    chatnet = "Oceanius";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "EpicIRC.peggy.devel.ws";
+    chatnet = "EpicIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Chat4all.peggy.devel.ws";
+    chatnet = "Chat4all";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Azzurra.peggy.devel.ws";
+    chatnet = "Azzurra";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "AstroLink.peggy.devel.ws";
+    chatnet = "AstroLink";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Beyondirc.peggy.devel.ws";
+    chatnet = "Beyondirc";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "BDSMnet.peggy.devel.ws";
+    chatnet = "BDSMnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Rezosup.peggy.devel.ws";
+    chatnet = "Rezosup";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Chatcafe.peggy.devel.ws";
+    chatnet = "Chatcafe";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "SimosNap.peggy.devel.ws";
+    chatnet = "SimosNap";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ZurnaNet.peggy.devel.ws";
+    chatnet = "ZurnaNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "LDSircNet.peggy.devel.ws";
+    chatnet = "LDSircNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "EuropNet.peggy.devel.ws";
+    chatnet = "EuropNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "MuggleNet.peggy.devel.ws";
+    chatnet = "MuggleNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ECNet.peggy.devel.ws";
+    chatnet = "ECNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Sohbet.peggy.devel.ws";
+    chatnet = "Sohbet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "FreedomChatIRC.peggy.devel.ws";
+    chatnet = "FreedomChatIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Starlinkirc.peggy.devel.ws";
+    chatnet = "Starlinkirc";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Umbranet.peggy.devel.ws";
+    chatnet = "Umbranet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "XentoniX.peggy.devel.ws";
+    chatnet = "XentoniX";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "SorceryNet.peggy.devel.ws";
+    chatnet = "SorceryNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "BlabberNet.peggy.devel.ws";
+    chatnet = "BlabberNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Brokenirc.peggy.devel.ws";
+    chatnet = "Brokenirc";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "ZeroFuzion.peggy.devel.ws";
+    chatnet = "ZeroFuzion";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "RusNet.peggy.devel.ws";
+    chatnet = "RusNet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "uIRC.peggy.devel.ws";
+    chatnet = "uIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Hollimyer.peggy.devel.ws";
+    chatnet = "Hollimyer";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "synIRC.peggy.devel.ws";
+    chatnet = "synIRC";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Newnet.peggy.devel.ws";
+    chatnet = "Newnet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "CentralChat.peggy.devel.ws";
+    chatnet = "CentralChat";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Kreynet.peggy.devel.ws";
+    chatnet = "Kreynet";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "Atrum.peggy.devel.ws";
+    chatnet = "Atrum";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "swn.peggy.devel.ws";
+    chatnet = "swn";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "susans.peggy.devel.ws";
+    chatnet = "susans";
+    port = "6668";
+    password = "wtf";
+    use_ssl = "no";
+    ssl_verify = "no";
+    autoconnect = "yes";
+  },
+  {
+    address = "auto";
+    port = "0";
+    password = "teightchan";
+    use_ssl = "no";
+    ssl_verify = "no";
+  }
+);
+chatnets = {
+  swn = { type = "IRC"; nick = "swn"; username = "swn"; realname = "swn"; };
+  TGHelps = {
+    type = "IRC";
+    nick = "TGHelps";
+    username = "TGHelps";
+    realname = "Anonymous girl";
+  };
+
+  bitlbee = {
+    type = "IRC";
+    nick = "bitlbee";
+    username = "bitlbee";
+    realname = "Anonymous girl";
+  };
+  JuggaloIRCNet = {
+    type = "IRC";
+    nick = "JuggaloIRCNet";
+    username = "JuggaloIRCNet";
+    realname = "Anonymous girl";
+  };
+  Digitalirc = {
+    type = "IRC";
+    nick = "Digitalirc";
+    username = "Digitalirc";
+    realname = "Anonymous girl";
+  };
+  PhaseNet = {
+    type = "IRC";
+    nick = "PhaseNet";
+    username = "PhaseNet";
+    realname = "Anonymous girl";
+  };
+  SwiftIRC = {
+    type = "IRC";
+    nick = "SwiftIRC";
+    username = "SwiftIRC";
+    realname = "Anonymous girl";
+  };
+  GRnet = {
+    type = "IRC";
+    nick = "GRnet";
+    username = "GRnet";
+    realname = "Anonymous girl";
+  };
+  Caelestia = {
+    type = "IRC";
+    nick = "Caelestia";
+    username = "Caelestia";
+    realname = "Anonymous girl";
+  };
+  ImmortalAnime = {
+    type = "IRC";
+    nick = "ImmortalAnime";
+    username = "ImmortalAnime";
+    realname = "Anonymous girl";
+  };
+  EYErc = {
+    type = "IRC";
+    nick = "EYErc";
+    username = "EYErc";
+    realname = "Anonymous girl";
+  };
+  Realitybytez = {
+    type = "IRC";
+    nick = "Realitybytez";
+    username = "Realitybytez";
+    realname = "Anonymous girl";
+  };
+  ScaryNet = {
+    type = "IRC";
+    nick = "ScaryNet";
+    username = "ScaryNet";
+    realname = "Anonymous girl";
+  };
+  Voila = {
+    type = "IRC";
+    nick = "Voila";
+    username = "Voila";
+    realname = "Anonymous girl";
+  };
+  AwesomeChat = {
+    type = "IRC";
+    nick = "AwesomeChat";
+    username = "AwesomeChat";
+    realname = "Anonymous girl";
+  };
+  Asylo = {
+    type = "IRC";
+    nick = "Asylo";
+    username = "Asylo";
+    realname = "Anonymous girl";
+  };
+  XAngelz = {
+    type = "IRC";
+    nick = "XAngelz";
+    username = "XAngelz";
+    realname = "Anonymous girl";
+  };
+  Serenia = {
+    type = "IRC";
+    nick = "Serenia";
+    username = "Serenia";
+    realname = "Anonymous girl";
+  };
+  Veezy = {
+    type = "IRC";
+    nick = "Veezy";
+    username = "Veezy";
+    realname = "Anonymous girl";
+  };
+  Rizon = {
+    type = "IRC";
+    nick = "Rizon";
+    username = "Rizon";
+    realname = "Anonymous girl";
+  };
+  OtherWorlders = {
+    type = "IRC";
+    nick = "OtherWorlders";
+    username = "OtherWorlders";
+    realname = "Anonymous girl";
+  };
+  RomaniaIRC = {
+    type = "IRC";
+    nick = "RomaniaIRC";
+    username = "RomaniaIRC";
+    realname = "Anonymous girl";
+  };
+  Netgamers = {
+    type = "IRC";
+    nick = "Netgamers";
+    username = "Netgamers";
+    realname = "Anonymous girl";
+  };
+  Illumichat = {
+    type = "IRC";
+    nick = "Illumichat";
+    username = "Illumichat";
+    realname = "Anonymous girl";
+  };
+  Krono = {
+    type = "IRC";
+    nick = "Krono";
+    username = "Krono";
+    realname = "Anonymous girl";
+  };
+  TalkingIRC = {
+    type = "IRC";
+    nick = "TalkingIRC";
+    username = "TalkingIRC";
+    realname = "Anonymous girl";
+  };
+  EsperNet = {
+    type = "IRC";
+    nick = "EsperNet";
+    username = "EsperNet";
+    realname = "Anonymous girl";
+  };
+  TVEps = {
+    type = "IRC";
+    nick = "TVEps";
+    username = "TVEps";
+    realname = "Anonymous girl";
+  };
+  MemphisNet = {
+    type = "IRC";
+    nick = "MemphisNet";
+    username = "MemphisNet";
+    realname = "Anonymous girl";
+  };
+  Novernet = {
+    type = "IRC";
+    nick = "Novernet";
+    username = "Novernet";
+    realname = "Anonymous girl";
+  };
+  UnderMind = {
+    type = "IRC";
+    nick = "UnderMind";
+    username = "UnderMind";
+    realname = "Anonymous girl";
+  };
+  Goldchat = {
+    type = "IRC";
+    nick = "Goldchat";
+    username = "Goldchat";
+    realname = "Anonymous girl";
+  };
+  FEFnet = {
+    type = "IRC";
+    nick = "FEFnet";
+    username = "FEFnet";
+    realname = "Anonymous girl";
+  };
+  BruneiChat = {
+    type = "IRC";
+    nick = "BruneiChat";
+    username = "BruneiChat";
+    realname = "Anonymous girl";
+  };
+  Synchronet = {
+    type = "IRC";
+    nick = "Synchronet";
+    username = "Synchronet";
+    realname = "Anonymous girl";
+  };
+  AbleNET = {
+    type = "IRC";
+    nick = "AbleNET";
+    username = "AbleNET";
+    realname = "Anonymous girl";
+  };
+  DeepIRC = {
+    type = "IRC";
+    nick = "DeepIRC";
+    username = "DeepIRC";
+    realname = "Anonymous girl";
+  };
+  Ascends = {
+    type = "IRC";
+    nick = "Ascends";
+    username = "Ascends";
+    realname = "Anonymous girl";
+  };
+  Axenet = {
+    type = "IRC";
+    nick = "Axenet";
+    username = "Axenet";
+    realname = "Anonymous girl";
+  };
+  AbsurdIRC = {
+    type = "IRC";
+    nick = "AbsurdIRC";
+    username = "AbsurdIRC";
+    realname = "Anonymous girl";
+  };
+  GlobalIRC = {
+    type = "IRC";
+    nick = "GlobalIRC";
+    username = "GlobalIRC";
+    realname = "Anonymous girl";
+  };
+  WebChat = {
+    type = "IRC";
+    nick = "WebChat";
+    username = "WebChat";
+    realname = "Anonymous girl";
+  };
+  DarkTouNet = {
+    type = "IRC";
+    nick = "DarkTouNet";
+    username = "DarkTouNet";
+    realname = "Anonymous girl";
+  };
+  Knightnet = {
+    type = "IRC";
+    nick = "Knightnet";
+    username = "Knightnet";
+    realname = "Anonymous girl";
+  };
+  Darkfire = {
+    type = "IRC";
+    nick = "Darkfire";
+    username = "Darkfire";
+    realname = "Anonymous girl";
+  };
+  GameSurge = {
+    type = "IRC";
+    nick = "GameSurge";
+    username = "GameSurge";
+    realname = "Anonymous girl";
+  };
+  PhooNet = {
+    type = "IRC";
+    nick = "PhooNet";
+    username = "PhooNet";
+    realname = "Anonymous girl";
+  };
+  HellasIRC = {
+    type = "IRC";
+    nick = "HellasIRC";
+    username = "HellasIRC";
+    realname = "Anonymous girl";
+  };
+  VirtuaLife = {
+    type = "IRC";
+    nick = "VirtuaLife";
+    username = "VirtuaLife";
+    realname = "Anonymous girl";
+  };
+  Cyberarmy = {
+    type = "IRC";
+    nick = "Cyberarmy";
+    username = "Cyberarmy";
+    realname = "Anonymous girl";
+  };
+  GlobalGamers = {
+    type = "IRC";
+    nick = "GlobalGamers";
+    username = "GlobalGamers";
+    realname = "Anonymous girl";
+  };
+  ChatFactory = {
+    type = "IRC";
+    nick = "ChatFactory";
+    username = "ChatFactory";
+    realname = "Anonymous girl";
+  };
+  ACKnet = {
+    type = "IRC";
+    nick = "ACKnet";
+    username = "ACKnet";
+    realname = "Anonymous girl";
+  };
+  SNM = {
+    type = "IRC";
+    nick = "SNM";
+    username = "SNM";
+    realname = "Anonymous girl";
+  };
+  ZUHnet = {
+    type = "IRC";
+    nick = "ZUHnet";
+    username = "ZUHnet";
+    realname = "Anonymous girl";
+  };
+  SpiderNet = {
+    type = "IRC";
+    nick = "SpiderNet";
+    username = "SpiderNet";
+    realname = "Anonymous girl";
+  };
+  NullIRC = {
+    type = "IRC";
+    nick = "NullIRC";
+    username = "NullIRC";
+    realname = "Anonymous girl";
+  };
+  GermanElite = {
+    type = "IRC";
+    nick = "GermanElite";
+    username = "GermanElite";
+    realname = "Anonymous girl";
+  };
+  DrLnet = {
+    type = "IRC";
+    nick = "DrLnet";
+    username = "DrLnet";
+    realname = "Anonymous girl";
+  };
+  Chatpolis = {
+    type = "IRC";
+    nick = "Chatpolis";
+    username = "Chatpolis";
+    realname = "Anonymous girl";
+  };
+  KukaiOnline = {
+    type = "IRC";
+    nick = "KukaiOnline";
+    username = "KukaiOnline";
+    realname = "Anonymous girl";
+  };
+  Langochat = {
+    type = "IRC";
+    nick = "Langochat";
+    username = "Langochat";
+    realname = "Anonymous girl";
+  };
+  Kickchat = {
+    type = "IRC";
+    nick = "Kickchat";
+    username = "Kickchat";
+    realname = "Anonymous girl";
+  };
+  Undernet = {
+    type = "IRC";
+    nick = "Undernet";
+    username = "Undernet";
+    realname = "Anonymous girl";
+  };
+  Worldnet = {
+    type = "IRC";
+    nick = "Worldnet";
+    username = "Worldnet";
+    realname = "Anonymous girl";
+  };
+  Starfusion = {
+    type = "IRC";
+    nick = "Starfusion";
+    username = "Starfusion";
+    realname = "Anonymous girl";
+  };
+  FlameIRC = {
+    type = "IRC";
+    nick = "FlameIRC";
+    username = "FlameIRC";
+    realname = "Anonymous girl";
+  };
+  STCity = {
+    type = "IRC";
+    nick = "STCity";
+    username = "STCity";
+    realname = "Anonymous girl";
+  };
+  AngelEyez = {
+    type = "IRC";
+    nick = "AngelEyez";
+    username = "AngelEyez";
+    realname = "Anonymous girl";
+  };
+  Jaundies = {
+    type = "IRC";
+    nick = "Jaundies";
+    username = "Jaundies";
+    realname = "Anonymous girl";
+  };
+  Abjects = {
+    type = "IRC";
+    nick = "Abjects";
+    username = "Abjects";
+    realname = "Anonymous girl";
+  };
+  GamesNET = {
+    type = "IRC";
+    nick = "GamesNET";
+    username = "GamesNET";
+    realname = "Anonymous girl";
+  };
+  Risanet = {
+    type = "IRC";
+    nick = "Risanet";
+    username = "Risanet";
+    realname = "Anonymous girl";
+  };
+  MMOIRC = {
+    type = "IRC";
+    nick = "MMOIRC";
+    username = "MMOIRC";
+    realname = "Anonymous girl";
+  };
+  Webcomm = {
+    type = "IRC";
+    nick = "Webcomm";
+    username = "Webcomm";
+    realname = "Anonymous girl";
+  };
+  Slashnet = {
+    type = "IRC";
+    nick = "Slashnet";
+    username = "Slashnet";
+    realname = "Anonymous girl";
+  };
+  HabberNet = {
+    type = "IRC";
+    nick = "HabberNet";
+    username = "HabberNet";
+    realname = "Anonymous girl";
+  };
+  WeArab = {
+    type = "IRC";
+    nick = "WeArab";
+    username = "WeArab";
+    realname = "Anonymous girl";
+  };
+  SexNet = {
+    type = "IRC";
+    nick = "SexNet";
+    username = "SexNet";
+    realname = "Anonymous girl";
+  };
+  RelayChat = {
+    type = "IRC";
+    nick = "RelayChat";
+    username = "RelayChat";
+    realname = "Anonymous girl";
+  };
+  IRCHispano = {
+    type = "IRC";
+    nick = "IRCHispano";
+    username = "IRCHispano";
+    realname = "Anonymous girl";
+  };
+  IRSee = {
+    type = "IRC";
+    nick = "IRSee";
+    username = "IRSee";
+    realname = "Anonymous girl";
+  };
+  BrokenPipe = {
+    type = "IRC";
+    nick = "BrokenPipe";
+    username = "BrokenPipe";
+    realname = "Anonymous girl";
+  };
+  PhaZeNet = {
+    type = "IRC";
+    nick = "PhaZeNet";
+    username = "PhaZeNet";
+    realname = "Anonymous girl";
+  };
+  IRCChat = {
+    type = "IRC";
+    nick = "IRCChat";
+    username = "IRCChat";
+    realname = "Anonymous girl";
+  };
+  is1337 = {
+    type = "IRC";
+    nick = "is1337";
+    username = "is1337";
+    realname = "Anonymous girl";
+  };
+  Imperium = {
+    type = "IRC";
+    nick = "Imperium";
+    username = "Imperium";
+    realname = "Anonymous girl";
+  };
+  Chikahan = {
+    type = "IRC";
+    nick = "Chikahan";
+    username = "Chikahan";
+    realname = "Anonymous girl";
+  };
+  GigaIRC = {
+    type = "IRC";
+    nick = "GigaIRC";
+    username = "GigaIRC";
+    realname = "Anonymous girl";
+  };
+  Karacay = {
+    type = "IRC";
+    nick = "Karacay";
+    username = "Karacay";
+    realname = "Anonymous girl";
+  };
+  ChattingAway = {
+    type = "IRC";
+    nick = "ChattingAway";
+    username = "ChattingAway";
+    realname = "Anonymous girl";
+  };
+  TotalIRC = {
+    type = "IRC";
+    nick = "TotalIRC";
+    username = "TotalIRC";
+    realname = "Anonymous girl";
+  };
+  Xevion = {
+    type = "IRC";
+    nick = "Xevion";
+    username = "Xevion";
+    realname = "Anonymous girl";
+  };
+  GreekIRC = {
+    type = "IRC";
+    nick = "GreekIRC";
+    username = "GreekIRC";
+    realname = "Anonymous girl";
+  };
+  Teranovanet = {
+    type = "IRC";
+    nick = "Teranovanet";
+    username = "Teranovanet";
+    realname = "Anonymous girl";
+  };
+  IrcWorld = {
+    type = "IRC";
+    nick = "IrcWorld";
+    username = "IrcWorld";
+    realname = "Anonymous girl";
+  };
+  Stormdancing = {
+    type = "IRC";
+    nick = "Stormdancing";
+    username = "Stormdancing";
+    realname = "Anonymous girl";
+  };
+  ThunderCity = {
+    type = "IRC";
+    nick = "ThunderCity";
+    username = "ThunderCity";
+    realname = "Anonymous girl";
+  };
+  D00mnet = {
+    type = "IRC";
+    nick = "D00mnet";
+    username = "D00mnet";
+    realname = "Anonymous girl";
+  };
+  Malaynet = {
+    type = "IRC";
+    nick = "Malaynet";
+    username = "Malaynet";
+    realname = "Anonymous girl";
+  };
+  ChatCircuit = {
+    type = "IRC";
+    nick = "ChatCircuit";
+    username = "ChatCircuit";
+    realname = "Anonymous girl";
+  };
+  Blitzed = {
+    type = "IRC";
+    nick = "Blitzed";
+    username = "Blitzed";
+    realname = "Anonymous girl";
+  };
+  IRCNightfire = {
+    type = "IRC";
+    nick = "IRCNightfire";
+    username = "IRCNightfire";
+    realname = "Anonymous girl";
+  };
+  Rootspirit = {
+    type = "IRC";
+    nick = "Rootspirit";
+    username = "Rootspirit";
+    realname = "Anonymous girl";
+  };
+  Financialchat = {
+    type = "IRC";
+    nick = "Financialchat";
+    username = "Financialchat";
+    realname = "Anonymous girl";
+  };
+  Necron = {
+    type = "IRC";
+    nick = "Necron";
+    username = "Necron";
+    realname = "Anonymous girl";
+  };
+  IRCChile = {
+    type = "IRC";
+    nick = "IRCChile";
+    username = "IRCChile";
+    realname = "Anonymous girl";
+  };
+  bonGster = {
+    type = "IRC";
+    nick = "bonGster";
+    username = "bonGster";
+    realname = "Anonymous girl";
+  };
+  SpaceTronix = {
+    type = "IRC";
+    nick = "SpaceTronix";
+    username = "SpaceTronix";
+    realname = "Anonymous girl";
+  };
+  AnimeIRCnet = {
+    type = "IRC";
+    nick = "AnimeIRCnet";
+    username = "AnimeIRCnet";
+    realname = "Anonymous girl";
+  };
+  SuskunNet = {
+    type = "IRC";
+    nick = "SuskunNet";
+    username = "SuskunNet";
+    realname = "Anonymous girl";
+  };
+  LinkNet = {
+    type = "IRC";
+    nick = "LinkNet";
+    username = "LinkNet";
+    realname = "Anonymous girl";
+  };
+  Burmese = {
+    type = "IRC";
+    nick = "Burmese";
+    username = "Burmese";
+    realname = "Anonymous girl";
+  };
+  BikersIRC = {
+    type = "IRC";
+    nick = "BikersIRC";
+    username = "BikersIRC";
+    realname = "Anonymous girl";
+  };
+  Chatnet = {
+    type = "IRC";
+    nick = "Chatnet";
+    username = "Chatnet";
+    realname = "Anonymous girl";
+  };
+  MASChat = {
+    type = "IRC";
+    nick = "MASChat";
+    username = "MASChat";
+    realname = "Anonymous girl";
+  };
+  WorldIRC = {
+    type = "IRC";
+    nick = "WorldIRC";
+    username = "WorldIRC";
+    realname = "Anonymous girl";
+  };
+  StarChat = {
+    type = "IRC";
+    nick = "StarChat";
+    username = "StarChat";
+    realname = "Anonymous girl";
+  };
+  JasonIRC = {
+    type = "IRC";
+    nick = "JasonIRC";
+    username = "JasonIRC";
+    realname = "Anonymous girl";
+  };
+  Forestnet = {
+    type = "IRC";
+    nick = "Forestnet";
+    username = "Forestnet";
+    realname = "Anonymous girl";
+  };
+  Sinoptic = {
+    type = "IRC";
+    nick = "Sinoptic";
+    username = "Sinoptic";
+    realname = "Anonymous girl";
+  };
+  SyrolNet = {
+    type = "IRC";
+    nick = "SyrolNet";
+    username = "SyrolNet";
+    realname = "Anonymous girl";
+  };
+  AustChat = {
+    type = "IRC";
+    nick = "AustChat";
+    username = "AustChat";
+    realname = "Anonymous girl";
+  };
+  EuropeIRC = {
+    type = "IRC";
+    nick = "EuropeIRC";
+    username = "EuropeIRC";
+    realname = "Anonymous girl";
+  };
+  SeersIRC = {
+    type = "IRC";
+    nick = "SeersIRC";
+    username = "SeersIRC";
+    realname = "Anonymous girl";
+  };
+  Chatster = {
+    type = "IRC";
+    nick = "Chatster";
+    username = "Chatster";
+    realname = "Anonymous girl";
+  };
+  UICN = {
+    type = "IRC";
+    nick = "UICN";
+    username = "UICN";
+    realname = "Anonymous girl";
+  };
+  UnderZ = {
+    type = "IRC";
+    nick = "UnderZ";
+    username = "UnderZ";
+    realname = "Anonymous girl";
+  };
+  NightStar = {
+    type = "IRC";
+    nick = "NightStar";
+    username = "NightStar";
+    realname = "Anonymous girl";
+  };
+  Mistrider = {
+    type = "IRC";
+    nick = "Mistrider";
+    username = "Mistrider";
+    realname = "Anonymous girl";
+  };
+  HellenicNet = {
+    type = "IRC";
+    nick = "HellenicNet";
+    username = "HellenicNet";
+    realname = "Anonymous girl";
+  };
+  IRCBY = {
+    type = "IRC";
+    nick = "IRCBY";
+    username = "IRCBY";
+    realname = "Anonymous girl";
+  };
+  Kenthaber = {
+    type = "IRC";
+    nick = "Kenthaber";
+    username = "Kenthaber";
+    realname = "Anonymous girl";
+  };
+  NPIRCS = {
+    type = "IRC";
+    nick = "NPIRCS";
+    username = "NPIRCS";
+    realname = "Anonymous girl";
+  };
+  Realirc = {
+    type = "IRC";
+    nick = "Realirc";
+    username = "Realirc";
+    realname = "Anonymous girl";
+  };
+  Germanfreakz = {
+    type = "IRC";
+    nick = "Germanfreakz";
+    username = "Germanfreakz";
+    realname = "Anonymous girl";
+  };
+  Othernet = {
+    type = "IRC";
+    nick = "Othernet";
+    username = "Othernet";
+    realname = "Anonymous girl";
+  };
+  CAJnet = {
+    type = "IRC";
+    nick = "CAJnet";
+    username = "CAJnet";
+    realname = "Anonymous girl";
+  };
+  Klavye = {
+    type = "IRC";
+    nick = "Klavye";
+    username = "Klavye";
+    realname = "Anonymous girl";
+  };
+  GalaxyNet = {
+    type = "IRC";
+    nick = "GalaxyNet";
+    username = "GalaxyNet";
+    realname = "Anonymous girl";
+  };
+  AfterX = {
+    type = "IRC";
+    nick = "AfterX";
+    username = "AfterX";
+    realname = "Anonymous girl";
+  };
+  DeviantART = {
+    type = "IRC";
+    nick = "DeviantART";
+    username = "DeviantART";
+    realname = "Anonymous girl";
+  };
+  FDFnet = {
+    type = "IRC";
+    nick = "FDFnet";
+    username = "FDFnet";
+    realname = "Anonymous girl";
+  };
+  Deepspace = {
+    type = "IRC";
+    nick = "Deepspace";
+    username = "Deepspace";
+    realname = "Anonymous girl";
+  };
+  RedLatina = {
+    type = "IRC";
+    nick = "RedLatina";
+    username = "RedLatina";
+    realname = "Anonymous girl";
+  };
+  NinthGate = {
+    type = "IRC";
+    nick = "NinthGate";
+    username = "NinthGate";
+    realname = "Anonymous girl";
+  };
+  JetIRC = {
+    type = "IRC";
+    nick = "JetIRC";
+    username = "JetIRC";
+    realname = "Anonymous girl";
+  };
+  AfterNET = {
+    type = "IRC";
+    nick = "AfterNET";
+    username = "AfterNET";
+    realname = "Anonymous girl";
+  };
+  ChatX = {
+    type = "IRC";
+    nick = "ChatX";
+    username = "ChatX";
+    realname = "Anonymous girl";
+  };
+  Goodchatting = {
+    type = "IRC";
+    nick = "Goodchatting";
+    username = "Goodchatting";
+    realname = "Anonymous girl";
+  };
+  LichtSnel = {
+    type = "IRC";
+    nick = "LichtSnel";
+    username = "LichtSnel";
+    realname = "Anonymous girl";
+  };
+  Chatchannel = {
+    type = "IRC";
+    nick = "Chatchannel";
+    username = "Chatchannel";
+    realname = "Anonymous girl";
+  };
+  WyldRyde = {
+    type = "IRC";
+    nick = "WyldRyde";
+    username = "WyldRyde";
+    realname = "Anonymous girl";
+  };
+  DhCNetwork = {
+    type = "IRC";
+    nick = "DhCNetwork";
+    username = "DhCNetwork";
+    realname = "Anonymous girl";
+  };
+  ChatNPlay = {
+    type = "IRC";
+    nick = "ChatNPlay";
+    username = "ChatNPlay";
+    realname = "Anonymous girl";
+  };
+  QuakeNet = {
+    type = "IRC";
+    nick = "Quakenet";
+    username = "Quakenet";
+    realname = "Anonymous girl";
+  };
+  Succuba = {
+    type = "IRC";
+    nick = "Succuba";
+    username = "Succuba";
+    realname = "Anonymous girl";
+  };
+  euIRCnet = {
+    type = "IRC";
+    nick = "euIRCnet";
+    username = "euIRCnet";
+    realname = "Anonymous girl";
+  };
+  Echo34 = {
+    type = "IRC";
+    nick = "Echo34";
+    username = "Echo34";
+    realname = "Anonymous girl";
+  };
+  KDFSnet = {
+    type = "IRC";
+    nick = "KDFSnet";
+    username = "KDFSnet";
+    realname = "Anonymous girl";
+  };
+  PhrenzyIRC = {
+    type = "IRC";
+    nick = "PhrenzyIRC";
+    username = "PhrenzyIRC";
+    realname = "Anonymous girl";
+  };
+  AseanChat = {
+    type = "IRC";
+    nick = "AseanChat";
+    username = "AseanChat";
+    realname = "Anonymous girl";
+  };
+  WikkedWire = {
+    type = "IRC";
+    nick = "WikkedWire";
+    username = "WikkedWire";
+    realname = "Anonymous girl";
+  };
+  Mozilla = {
+    type = "IRC";
+    nick = "Mozilla";
+    username = "Mozilla";
+    realname = "Anonymous girl";
+  };
+  Cyanidex = {
+    type = "IRC";
+    nick = "Cyanidex";
+    username = "Cyanidex";
+    realname = "Anonymous girl";
+  };
+  AmberNet = {
+    type = "IRC";
+    nick = "AmberNet";
+    username = "AmberNet";
+    realname = "Anonymous girl";
+  };
+  PowerPrecision = {
+    type = "IRC";
+    nick = "PowerPrecision";
+    username = "PowerPrecision";
+    realname = "Anonymous girl";
+  };
+  AshNet = {
+    type = "IRC";
+    nick = "AshNet";
+    username = "AshNet";
+    realname = "Anonymous girl";
+  };
+  Aniverse = {
+    type = "IRC";
+    nick = "Aniverse";
+    username = "Aniverse";
+    realname = "Anonymous girl";
+  };
+  DarkStorm = {
+    type = "IRC";
+    nick = "DarkStorm";
+    username = "DarkStorm";
+    realname = "Anonymous girl";
+  };
+  Chatworks = {
+    type = "IRC";
+    nick = "Chatworks";
+    username = "Chatworks";
+    realname = "Anonymous girl";
+  };
+  AllNetwork = {
+    type = "IRC";
+    nick = "AllNetwork";
+    username = "AllNetwork";
+    realname = "Anonymous girl";
+  };
+  ShadowWorld = {
+    type = "IRC";
+    nick = "ShadowWorld";
+    username = "ShadowWorld";
+    realname = "Anonymous girl";
+  };
+  BittahIRC = {
+    type = "IRC";
+    nick = "BittahIRC";
+    username = "BittahIRC";
+    realname = "Anonymous girl";
+  };
+  ArabChat = {
+    type = "IRC";
+    nick = "ArabChat";
+    username = "ArabChat";
+    realname = "Anonymous girl";
+  };
+  KampungChat = {
+    type = "IRC";
+    nick = "KampungChat";
+    username = "KampungChat";
+    realname = "Anonymous girl";
+  };
+  OflooIRC = {
+    type = "IRC";
+    nick = "OflooIRC";
+    username = "OflooIRC";
+    realname = "Anonymous girl";
+  };
+  ZAnetNet = {
+    type = "IRC";
+    nick = "ZAnetNet";
+    username = "ZAnetNet";
+    realname = "Anonymous girl";
+  };
+  DreamIrc = {
+    type = "IRC";
+    nick = "DreamIrc";
+    username = "DreamIrc";
+    realname = "Anonymous girl";
+  };
+  Lepaknet = {
+    type = "IRC";
+    nick = "Lepaknet";
+    username = "Lepaknet";
+    realname = "Anonymous girl";
+  };
+  CodersNet = {
+    type = "IRC";
+    nick = "CodersNet";
+    username = "CodersNet";
+    realname = "Anonymous girl";
+  };
+  Elevanet = {
+    type = "IRC";
+    nick = "Elevanet";
+    username = "Elevanet";
+    realname = "Anonymous girl";
+  };
+  Darktree = {
+    type = "IRC";
+    nick = "Darktree";
+    username = "Darktree";
+    realname = "Anonymous girl";
+  };
+  UKchatterbox = {
+    type = "IRC";
+    nick = "UKchatterbox";
+    username = "UKchatterbox";
+    realname = "Anonymous girl";
+  };
+  WonderNet = {
+    type = "IRC";
+    nick = "WonderNet";
+    username = "WonderNet";
+    realname = "Anonymous girl";
+  };
+  BackwerdsIRC = {
+    type = "IRC";
+    nick = "BackwerdsIRC";
+    username = "BackwerdsIRC";
+    realname = "Anonymous girl";
+  };
+  Striked = {
+    type = "IRC";
+    nick = "Striked";
+    username = "Striked";
+    realname = "Anonymous girl";
+  };
+  Roofstar = {
+    type = "IRC";
+    nick = "Roofstar";
+    username = "Roofstar";
+    realname = "Anonymous girl";
+  };
+  StarLinkOrg = {
+    type = "IRC";
+    nick = "StarLinkOrg";
+    username = "StarLinkOrg";
+    realname = "Anonymous girl";
+  };
+  IRCube = {
+    type = "IRC";
+    nick = "IRCube";
+    username = "IRCube";
+    realname = "Anonymous girl";
+  };
+  ScifiNet = {
+    type = "IRC";
+    nick = "ScifiNet";
+    username = "ScifiNet";
+    realname = "Anonymous girl";
+  };
+  WhatNet = {
+    type = "IRC";
+    nick = "WhatNet";
+    username = "WhatNet";
+    realname = "Anonymous girl";
+  };
+  Freequest = {
+    type = "IRC";
+    nick = "Freequest";
+    username = "Freequest";
+    realname = "Anonymous girl";
+  };
+  Discussioni = {
+    type = "IRC";
+    nick = "Discussioni";
+    username = "Discussioni";
+    realname = "Anonymous girl";
+  };
+  SerenityIRC = {
+    type = "IRC";
+    nick = "SerenityIRC";
+    username = "SerenityIRC";
+    realname = "Anonymous girl";
+  };
+  IRDSI = {
+    type = "IRC";
+    nick = "IRDSI";
+    username = "IRDSI";
+    realname = "Anonymous girl";
+  };
+  Slacked = {
+    type = "IRC";
+    nick = "Slacked";
+    username = "Slacked";
+    realname = "Anonymous girl";
+  };
+  IrcSuper = {
+    type = "IRC";
+    nick = "IrcSuper";
+    username = "IrcSuper";
+    realname = "Anonymous girl";
+  };
+  Nevernet = {
+    type = "IRC";
+    nick = "Nevernet";
+    username = "Nevernet";
+    realname = "Anonymous girl";
+  };
+  HeavenlyPlace = {
+    type = "IRC";
+    nick = "HeavenlyPlace";
+    username = "HeavenlyPlace";
+    realname = "Anonymous girl";
+  };
+  IrCQNet = {
+    type = "IRC";
+    nick = "IrCQNet";
+    username = "IrCQNet";
+    realname = "Anonymous girl";
+  };
+  GermanyIRC = {
+    type = "IRC";
+    nick = "GermanyIRC";
+    username = "GermanyIRC";
+    realname = "Anonymous girl";
+  };
+  ForeverChat = {
+    type = "IRC";
+    nick = "ForeverChat";
+    username = "ForeverChat";
+    realname = "Anonymous girl";
+  };
+  Ciudad = {
+    type = "IRC";
+    nick = "Ciudad";
+    username = "Ciudad";
+    realname = "Anonymous girl";
+  };
+  Librenet = {
+    type = "IRC";
+    nick = "Librenet";
+    username = "Librenet";
+    realname = "Anonymous girl";
+  };
+  Maddshark = {
+    type = "IRC";
+    nick = "Maddshark";
+    username = "Maddshark";
+    realname = "Anonymous girl";
+  };
+  Outsiderz = {
+    type = "IRC";
+    nick = "Outsiderz";
+    username = "Outsiderz";
+    realname = "Anonymous girl";
+  };
+  MagicStar = {
+    type = "IRC";
+    nick = "MagicStar";
+    username = "MagicStar";
+    realname = "Anonymous girl";
+  };
+  FBN = {
+    type = "IRC";
+    nick = "FBN";
+    username = "FBN";
+    realname = "Anonymous girl";
+  };
+  LobiNET = {
+    type = "IRC";
+    nick = "LobiNET";
+    username = "LobiNET";
+    realname = "Anonymous girl";
+  };
+  P2PChat = {
+    type = "IRC";
+    nick = "P2PChat";
+    username = "P2PChat";
+    realname = "Anonymous girl";
+  };
+  Different = {
+    type = "IRC";
+    nick = "Different";
+    username = "Different";
+    realname = "Anonymous girl";
+  };
+  StayNet = {
+    type = "IRC";
+    nick = "StayNet";
+    username = "StayNet";
+    realname = "Anonymous girl";
+  };
+  Freenode = {
+    type = "IRC";
+    nick = "Freenode";
+    username = "Freenode";
+    realname = "Anonymous girl";
+  };
+  IRCHighway = {
+    type = "IRC";
+    nick = "IRCHighway";
+    username = "IRCHighway";
+    realname = "Anonymous girl";
+  };
+  DALnet = {
+    type = "IRC";
+    nick = "DALnet";
+    username = "DALnet";
+    realname = "Anonymous girl";
+  };
+  Dynastynet = {
+    type = "IRC";
+    nick = "Dynastynet";
+    username = "Dynastynet";
+    realname = "Anonymous girl";
+  };
+  Windfyre = {
+    type = "IRC";
+    nick = "Windfyre";
+    username = "Windfyre";
+    realname = "Anonymous girl";
+  };
+  MatrixNet = {
+    type = "IRC";
+    nick = "MatrixNet";
+    username = "MatrixNet";
+    realname = "Anonymous girl";
+  };
+  VirtuaNet = {
+    type = "IRC";
+    nick = "VirtuaNet";
+    username = "VirtuaNet";
+    realname = "Anonymous girl";
+  };
+  NiX = {
+    type = "IRC";
+    nick = "NiX";
+    username = "NiX";
+    realname = "Anonymous girl";
+  };
+  MalaysiaIRC = {
+    type = "IRC";
+    nick = "MalaysiaIRC";
+    username = "MalaysiaIRC";
+    realname = "Anonymous girl";
+  };
+  URChat = {
+    type = "IRC";
+    nick = "URChat";
+    username = "URChat";
+    realname = "Anonymous girl";
+  };
+  ChakraNET = {
+    type = "IRC";
+    nick = "ChakraNET";
+    username = "ChakraNET";
+    realname = "Anonymous girl";
+  };
+  LandOLeet = {
+    type = "IRC";
+    nick = "LandOLeet";
+    username = "LandOLeet";
+    realname = "Anonymous girl";
+  };
+  PTnet = {
+    type = "IRC";
+    nick = "PTnet";
+    username = "PTnet";
+    realname = "Anonymous girl";
+  };
+  EntertheGame = {
+    type = "IRC";
+    nick = "EntertheGame";
+    username = "EntertheGame";
+    realname = "Anonymous girl";
+  };
+  FunNet = {
+    type = "IRC";
+    nick = "FunNet";
+    username = "FunNet";
+    realname = "Anonymous girl";
+  };
+  IRCtoo = {
+    type = "IRC";
+    nick = "IRCtoo";
+    username = "IRCtoo";
+    realname = "Anonymous girl";
+  };
+  BolChat = {
+    type = "IRC";
+    nick = "BolChat";
+    username = "BolChat";
+    realname = "Anonymous girl";
+  };
+  EFnet = {
+    type = "IRC";
+    nick = "EFnet";
+    username = "EFnet";
+    realname = "Anonymous girl";
+  };
+  BigPond = {
+    type = "IRC";
+    nick = "BigPond";
+    username = "BigPond";
+    realname = "Anonymous girl";
+  };
+  ZAnetOrg = {
+    type = "IRC";
+    nick = "ZAnetOrg";
+    username = "ZAnetOrg";
+    realname = "Anonymous girl";
+  };
+  Chatsociety = {
+    type = "IRC";
+    nick = "Chatsociety";
+    username = "Chatsociety";
+    realname = "Anonymous girl";
+  };
+  Ozorg = {
+    type = "IRC";
+    nick = "Ozorg";
+    username = "Ozorg";
+    realname = "Anonymous girl";
+  };
+  PhatNET = {
+    type = "IRC";
+    nick = "PhatNET";
+    username = "PhatNET";
+    realname = "Anonymous girl";
+  };
+  ChatSpike = {
+    type = "IRC";
+    nick = "ChatSpike";
+    username = "ChatSpike";
+    realname = "Anonymous girl";
+  };
+  ShadowFire = {
+    type = "IRC";
+    nick = "ShadowFire";
+    username = "ShadowFire";
+    realname = "Anonymous girl";
+  };
+  GigaCrew = {
+    type = "IRC";
+    nick = "GigaCrew";
+    username = "GigaCrew";
+    realname = "Anonymous girl";
+  };
+  Communicate = {
+    type = "IRC";
+    nick = "Communicate";
+    username = "Communicate";
+    realname = "Anonymous girl";
+  };
+  NeoturbineNET = {
+    type = "IRC";
+    nick = "NeoturbineNET";
+    username = "NeoturbineNET";
+    realname = "Anonymous girl";
+  };
+  AustNet = {
+    type = "IRC";
+    nick = "AustNet";
+    username = "AustNet";
+    realname = "Anonymous girl";
+  };
+  KnightIRC = {
+    type = "IRC";
+    nick = "KnightIRC";
+    username = "KnightIRC";
+    realname = "Anonymous girl";
+  };
+  UnitedChat = {
+    type = "IRC";
+    nick = "UnitedChat";
+    username = "UnitedChat";
+    realname = "Anonymous girl";
+  };
+  Accessirc = {
+    type = "IRC";
+    nick = "Accessirc";
+    username = "Accessirc";
+    realname = "Anonymous girl";
+  };
+  NeoXys = {
+    type = "IRC";
+    nick = "NeoXys";
+    username = "NeoXys";
+    realname = "Anonymous girl";
+  };
+  IRCnet = {
+    type = "IRC";
+    nick = "IRCnet";
+    username = "IRCnet";
+    realname = "Anonymous girl";
+  };
+  Globalchat = {
+    type = "IRC";
+    nick = "Globalchat";
+    username = "Globalchat";
+    realname = "Anonymous girl";
+  };
+  GammaForce = {
+    type = "IRC";
+    nick = "GammaForce";
+    username = "GammaForce";
+    realname = "Anonymous girl";
+  };
+  DarkMyst = {
+    type = "IRC";
+    nick = "DarkMyst";
+    username = "DarkMyst";
+    realname = "Anonymous girl";
+  };
+  FroZyn = {
+    type = "IRC";
+    nick = "FroZyn";
+    username = "FroZyn";
+    realname = "Anonymous girl";
+  };
+  IRC2 = {
+    type = "IRC";
+    nick = "IRC2";
+    username = "IRC2";
+    realname = "Anonymous girl";
+  };
+  IRC4Fun = {
+    type = "IRC";
+    nick = "IRC4Fun";
+    username = "IRC4Fun";
+    realname = "Anonymous girl";
+  };
+  Muhabbet = {
+    type = "IRC";
+    nick = "Muhabbet";
+    username = "Muhabbet";
+    realname = "Anonymous girl";
+  };
+  EverywhereChat = {
+    type = "IRC";
+    nick = "EverywhereChat";
+    username = "EverywhereChat";
+    realname = "Anonymous girl";
+  };
+  Xtris = {
+    type = "IRC";
+    nick = "Xtris";
+    username = "Xtris";
+    realname = "Anonymous girl";
+  };
+  Beatmix = {
+    type = "IRC";
+    nick = "Beatmix";
+    username = "Beatmix";
+    realname = "Anonymous girl";
+  };
+  Datawhore = {
+    type = "IRC";
+    nick = "Datawhore";
+    username = "Datawhore";
+    realname = "Anonymous girl";
+  };
+  Oceanius = {
+    type = "IRC";
+    nick = "Oceanius";
+    username = "Oceanius";
+    realname = "Anonymous girl";
+  };
+  EpicIRC = {
+    type = "IRC";
+    nick = "EpicIRC";
+    username = "EpicIRC";
+    realname = "Anonymous girl";
+  };
+  Chat4all = {
+    type = "IRC";
+    nick = "Chat4all";
+    username = "Chat4all";
+    realname = "Anonymous girl";
+  };
+  Azzurra = {
+    type = "IRC";
+    nick = "Azzurra";
+    username = "Azzurra";
+    realname = "Anonymous girl";
+  };
+  AstroLink = {
+    type = "IRC";
+    nick = "AstroLink";
+    username = "AstroLink";
+    realname = "Anonymous girl";
+  };
+  Beyondirc = {
+    type = "IRC";
+    nick = "Beyondirc";
+    username = "Beyondirc";
+    realname = "Anonymous girl";
+  };
+  BDSMnet = {
+    type = "IRC";
+    nick = "BDSMnet";
+    username = "BDSMnet";
+    realname = "Anonymous girl";
+  };
+  Rezosup = {
+    type = "IRC";
+    nick = "Rezosup";
+    username = "Rezosup";
+    realname = "Anonymous girl";
+  };
+  Chatcafe = {
+    type = "IRC";
+    nick = "Chatcafe";
+    username = "Chatcafe";
+    realname = "Anonymous girl";
+  };
+  SimosNap = {
+    type = "IRC";
+    nick = "SimosNap";
+    username = "SimosNap";
+    realname = "Anonymous girl";
+  };
+  ZurnaNet = {
+    type = "IRC";
+    nick = "ZurnaNet";
+    username = "ZurnaNet";
+    realname = "Anonymous girl";
+  };
+  LDSircNet = {
+    type = "IRC";
+    nick = "LDSircNet";
+    username = "LDSircNet";
+    realname = "Anonymous girl";
+  };
+  EuropNet = {
+    type = "IRC";
+    nick = "EuropNet";
+    username = "EuropNet";
+    realname = "Anonymous girl";
+  };
+  MuggleNet = {
+    type = "IRC";
+    nick = "MuggleNet";
+    username = "MuggleNet";
+    realname = "Anonymous girl";
+  };
+  ECNet = {
+    type = "IRC";
+    nick = "ECNet";
+    username = "ECNet";
+    realname = "Anonymous girl";
+  };
+  Sohbet = {
+    type = "IRC";
+    nick = "Sohbet";
+    username = "Sohbet";
+    realname = "Anonymous girl";
+  };
+  FreedomChatIRC = {
+    type = "IRC";
+    nick = "FreedomChatIRC";
+    username = "FreedomChatIRC";
+    realname = "Anonymous girl";
+  };
+  Starlinkirc = {
+    type = "IRC";
+    nick = "Starlinkirc";
+    username = "Starlinkirc";
+    realname = "Anonymous girl";
+  };
+  Umbranet = {
+    type = "IRC";
+    nick = "Umbranet";
+    username = "Umbranet";
+    realname = "Anonymous girl";
+  };
+  XentoniX = {
+    type = "IRC";
+    nick = "XentoniX";
+    username = "XentoniX";
+    realname = "Anonymous girl";
+  };
+  SorceryNet = {
+    type = "IRC";
+    nick = "SorceryNet";
+    username = "SorceryNet";
+    realname = "Anonymous girl";
+  };
+  BlabberNet = {
+    type = "IRC";
+    nick = "BlabberNet";
+    username = "BlabberNet";
+    realname = "Anonymous girl";
+  };
+  Brokenirc = {
+    type = "IRC";
+    nick = "Brokenirc";
+    username = "Brokenirc";
+    realname = "Anonymous girl";
+  };
+  ZeroFuzion = {
+    type = "IRC";
+    nick = "ZeroFuzion";
+    username = "ZeroFuzion";
+    realname = "Anonymous girl";
+  };
+  RusNet = {
+    type = "IRC";
+    nick = "RusNet";
+    username = "RusNet";
+    realname = "Anonymous girl";
+  };
+  uIRC = {
+    type = "IRC";
+    nick = "uIRC";
+    username = "uIRC";
+    realname = "Anonymous girl";
+  };
+  Hollimyer = {
+    type = "IRC";
+    nick = "Hollimyer";
+    username = "Hollimyer";
+    realname = "Anonymous girl";
+  };
+  synIRC = {
+    type = "IRC";
+    nick = "synIRC";
+    username = "synIRC";
+    realname = "Anonymous girl";
+  };
+  Newnet = {
+    type = "IRC";
+    nick = "Newnet";
+    username = "Newnet";
+    realname = "Anonymous girl";
+  };
+  CentralChat = {
+    type = "IRC";
+    nick = "CentralChat";
+    username = "CentralChat";
+    realname = "Anonymous girl";
+  };
+  Kreynet = {
+    type = "IRC";
+    nick = "Kreynet";
+    username = "Kreynet";
+    realname = "Anonymous girl";
+  };
+  Atrum = {
+    type = "IRC";
+    nick = "Atrum";
+    username = "Atrum";
+    realname = "Anonymous girl";
+  };
+  Infomatrix = {
+    type = "IRC";
+    nick = "Infomatrix";
+    username = "Infomatrix";
+    realname = "Anonymous girl";
+  };
+  susans = {
+    type = "IRC";
+    nick = "susans";
+    username = "susans";
+    realname = "susans";
+  };
+  hackerquarterly = {
+    type = "IRC";
+    nick = "hackerquarterly";
+    username = "hackerquarterly";
+    realname = "hackerquartery";
+  };
+  eighteighteightchan = {
+    type = "IRC";
+    nick = "eighteighteightchan";
+    username = "eighteighteightchan";
+    realname = "eighteighteightchan";
+  };
+  teightchan = {
+    type = "IRC";
+    nick = "eighteighteightchan";
+    username = "eighteighteightchan";
+    realname = "eighteighteightchan";
+  };
+};
+settings = {
+  core = { real_name = "pt"; user_name = "erratic"; nick = "erratic"; };
+  "fe-text" = { actlist_sort = "recent"; };
+  "fe-common/core" = {
+    use_msgs_window = "yes";
+    autocreate_query_level = "DCCMSGS";
+    autoclose_query = "0";
+    activity_hide_level = "none";
+    windows_auto_renumber = "no";
+  };
+  "perl/core/scripts" = { awl_maxlines = "40"; };
+};
+statusbar = {
+  default = {
+    awl_0 = {
+      items = {
+        barstart = { priority = "100"; };
+        awl_0 = { };
+        barend = { priority = "100"; alignment = "right"; };
+      };
+    };
+  };
+};
+ignores = (
+  { mask = "SPENCERLEE"; level = "ALL"; },
+  { mask = "*email"; level = "ALL"; },
+  { mask = "*raw"; level = "ALL"; },
+  { mask = "*status"; level = "ALL"; }
+);
+channels = (
+  { name = "#channel3"; chatnet = "rizon"; autojoin = "yes"; },
+  { name = "#dc206"; chatnet = "efnet"; autojoin = "yes"; }
+);
+logs = { };

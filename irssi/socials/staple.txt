@@ -1,0 +1,6 @@
+0
+name1 grabs a staple gun and reloads the gun.
+name1 staples name2 to the wall, now they can't run, MUahahaha....
+name1 tries to staple themself to the wall, OUWWWW!!
+you got stapled to the wall by name1.
+you have stapled name2 to the wall.

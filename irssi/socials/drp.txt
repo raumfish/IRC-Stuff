@@ -1,0 +1,6 @@
+0
+name1 goes out and buys a box of ~R1Dr.Pepper~RS.
+name1 tosses a ~R1Dr.Pepper~RS can to name2, If you waste it, You're Dead.
+name1 grabs a ~R1Dr.Pepper~RS, pops it open and gulps it down... aaahhhh.....
+name1 tosses you a can of ~R1Dr.Pepper~RS.
+you gave name2 a can of ~R1Dr.Pepper~RS.

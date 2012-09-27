@@ -1,0 +1,6 @@
+0
+name1 needs a hug.
+name1 hugs name2 tightly.
+name1 hugs themself tightly.
+name1 hugs you tightly.
+you hugs name2 tightly.

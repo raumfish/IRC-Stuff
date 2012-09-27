@@ -1,0 +1,8 @@
+# This file should contain a list of all channels
+# which you don't want to join until after you've
+# successfully identified with x.  This is
+# useful if you have a hidden host (+x).
+# Enter Channel without `#'
+#
+# Channel       IrcNet Tag
+# --------      ----------
